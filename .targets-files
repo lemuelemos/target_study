@@ -1,0 +1,10 @@
+.targets-files
+_targets/meta/process
+_targets/meta/progress
+_targets/objects/dados
+_targets/objects/data
+_targets/objects/model
+_targets/objects/plot
+_targets/objects/svdados
+_targets/meta/meta
+database.sqlite
