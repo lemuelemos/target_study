@@ -1,12 +1,7 @@
 name|type|parent|branches|progress
-dados|stem|dados|0|dispatched
-dados|stem|dados|0|completed
+dados|stem|dados|0|skipped
 file|stem|file|0|skipped
-svdados|stem|svdados|0|dispatched
-svdados|stem|svdados|0|completed
-data|stem|data|0|dispatched
-data|stem|data|0|completed
-model|stem|model|0|dispatched
-model|stem|model|0|completed
-plot|stem|plot|0|dispatched
-plot|stem|plot|0|completed
+svdados|stem|svdados|0|skipped
+data|stem|data|0|skipped
+model|stem|model|0|skipped
+plot|stem|plot|0|skipped
