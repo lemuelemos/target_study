@@ -111,8 +111,8 @@ jobs:
 
       - name: Upload latest run
         run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
+          git config --local user.name "lemuelemos"
+          git config --local user.email "lemuelemos@gmail.com"
           rm -r .gitignore .github/workflows
           git add --all -- ':!renv'
           for file in $(git ls-files -mo --exclude=renv)
