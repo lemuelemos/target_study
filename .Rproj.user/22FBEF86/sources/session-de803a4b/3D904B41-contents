@@ -1,0 +1,8 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+data|stem|e4c798a41e679204|14c0abc3329ce191|dda293d95cc7300d|33550471||t19844.460008463s|6053900ad6294815|1355|rds|local|vector|||0.25||
+file|stem|4752ceb2f667554d|78ba1f949d516b2f|2c530c1562a7fbd1|1735323524|data.csv|t19844.4075783s|0242bfbacb8dc31f|2890|file|local|vector|||0.11|package tibble was built under R version 4.3.2. package dplyr was built under R version 4.3.2|
+fit_model|function|3f3c9d2e5cf2eb2b|||||||||||||||
+get_data|function|b3fd156c2f5f8945|||||||||||||||
+model|stem|080b86b877e2e9cb|122b7dd8ec340fb3|83917e9c7852b787|808688450||t19844.4600087826s|9b43f3e0f172ee04|111|rds|local|vector|||0.02||
+plot|stem|ce930240d6a039da|e9da12e55abf4572|48ecb4f7d7268fa8|874984291||t19844.4600128309s|c9241484469eeb9f|92054|rds|local|vector|||0.3||
+plot_model|function|700633ecd745a913|||||||||||||||

@@ -1,0 +1,17 @@
+# R/functions.R
+get_data <- function(file) {
+  readr::read_csv(file, 
+                  col_types = readr::cols()) %>%
+    filter(!is.na(Ozone))
+}
+
+fit_model <- function(data) {
+  lm(Ozone ~ Temp, data) %>%
+    coefficients()
+}
+
+plot_model <- function(model, data) {
+  ggplot2::ggplot(data) +
+    ggplot2::geom_point(ggplot2::aes(x = Temp, y = Ozone)) +
+    ggplot2::geom_abline(intercept = model[1], slope = model[2])
+}
