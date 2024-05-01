@@ -3,7 +3,7 @@ library(targets)
 
 # Set target options:
 tar_option_set(
-  packages = c("tibble","dplyr","DBI","RSQLite") 
+  packages = c("tibble","dplyr","DBI","RSQLite","readr") 
 )
 
 # Run the R scripts in the R/ folder with your custom functions:
