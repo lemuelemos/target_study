@@ -32,7 +32,6 @@ on:
 name: targets
 
 jobs:
-  contents: write
   targets:
     runs-on: ubuntu-latest
     env:
