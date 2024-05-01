@@ -28,6 +28,8 @@ on:
     branches:
       - main
       - master
+  schedule: ## Schedule the job to run at 12.am daily.
+    - cron: '20 11 * * *'
 permissions:
   contents: write
   
