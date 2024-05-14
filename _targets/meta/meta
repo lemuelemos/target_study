@@ -1,13 +1,13 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-.Random.seed|object|35dd7bc9b10d1383|||||||||||||||
-dados|stem|b4352090f2a2f27a|4013754addf64b42|a5f6bc3fd5e94976|1718686651||t19856.4760851397s|5c8410ee7938180d|255|rds|local|vector|||0.369||
-data|stem|9dfae02b535bcedd|14c0abc3329ce191|dda293d95cc7300d|33550471||t19856.4760851397s|6053900ad6294815|1355|rds|local|vector|||0.085||
+.Random.seed|object|c22f7ff7aebd6b05|||||||||||||||
+dados|stem|b4352090f2a2f27a|4013754addf64b42|a5f6bc3fd5e94976|1718686651||t19857.4764638562s|5c8410ee7938180d|255|rds|local|vector|||0.369||
+data|stem|9dfae02b535bcedd|14c0abc3329ce191|dda293d95cc7300d|33550471||t19857.4764638562s|6053900ad6294815|1355|rds|local|vector|||0.085||
 download_data|function|1adae005ddb53787|||||||||||||||
-file|stem|4752ceb2f667554d|78ba1f949d516b2f|2c530c1562a7fbd1|1735323524|data.csv|t19856.472665436s|0242bfbacb8dc31f|2890|file|local|vector|||0.11|package tibble was built under R version 4.3.2. package dplyr was built under R version 4.3.2|
+file|stem|4752ceb2f667554d|78ba1f949d516b2f|2c530c1562a7fbd1|1735323524|data.csv|t19857.4731619649s|0242bfbacb8dc31f|2890|file|local|vector|||0.11|package tibble was built under R version 4.3.2. package dplyr was built under R version 4.3.2|
 fit_model|function|3f3c9d2e5cf2eb2b|||||||||||||||
 get_data|function|b3fd156c2f5f8945|||||||||||||||
-model|stem|21b6c16da1a57ae7|122b7dd8ec340fb3|862ad1a123aaa7f2|808688450||t19856.4760851397s|f2de2469be356334|110|rds|local|vector|||0.003||
-plot|stem|ca9649470b713b44|e9da12e55abf4572|68977bef2f364a93|874984291||t19856.4760851397s|749913ecb940d01f|93496|rds|local|vector|||0.082||
+model|stem|21b6c16da1a57ae7|122b7dd8ec340fb3|862ad1a123aaa7f2|808688450||t19857.4764638562s|f2de2469be356334|110|rds|local|vector|||0.003||
+plot|stem|ca9649470b713b44|e9da12e55abf4572|68977bef2f364a93|874984291||t19857.4764638562s|749913ecb940d01f|93496|rds|local|vector|||0.082||
 plot_model|function|700633ecd745a913|||||||||||||||
 save_to_sql|function|df47eddcb3a4d2ff|||||||||||||||
-svdados|stem|ade7c98210286fd9|819089c278e46540|08a8aa074afdb05d|1934348571||t19856.4760851397s|c3d3b541ede7844e|46|rds|local|vector|||0.028||
+svdados|stem|ade7c98210286fd9|819089c278e46540|08a8aa074afdb05d|1934348571||t19857.4764638562s|c3d3b541ede7844e|46|rds|local|vector|||0.028||
